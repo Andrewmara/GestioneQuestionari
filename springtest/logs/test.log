@@ -1,0 +1,82 @@
+2022-05-20 12:28:52,847 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 17800 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:28:52,849 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:28:52,850 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:29:07,036 INFO [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:55] Starting SpringtestApplication using Java 16.0.2 on ITSAR-ND6375HH5 with PID 3156 (C:\Users\FrancoCeruti\eclipse-workspace\springtest\target\classes started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:29:07,044 DEBUG [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:29:07,046 INFO [main] i.f.t.SpringtestApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:35:16,738 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 17736 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:35:16,739 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:35:16,740 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:35:46,399 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 4144 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:35:46,401 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:35:46,402 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:38:01,288 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 3648 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:38:01,289 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:38:01,291 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:38:16,132 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 18836 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:38:16,133 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:38:16,135 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:38:28,658 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 16452 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:38:28,659 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:38:28,660 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:39:25,452 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 2420 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:39:25,454 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:39:25,456 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:39:27,598 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 2420 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:39:27,599 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:39:27,600 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:40:01,279 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 16704 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:40:01,280 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:40:01,282 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:40:03,232 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 16704 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:40:03,233 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:40:03,233 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:40:23,529 INFO [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:55] Starting SpringtestApplication using Java 16.0.2 on ITSAR-ND6375HH5 with PID 9256 (C:\Users\FrancoCeruti\eclipse-workspace\springtest\target\classes started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:40:23,533 DEBUG [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:40:23,534 INFO [main] i.f.t.SpringtestApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:42:04,310 INFO [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:55] Starting SpringtestApplication using Java 16.0.2 on ITSAR-ND6375HH5 with PID 17724 (C:\Users\FrancoCeruti\eclipse-workspace\springtest\target\classes started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:42:04,314 DEBUG [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:42:04,315 INFO [main] i.f.t.SpringtestApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:43:54,420 INFO [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:55] Starting SpringtestApplication using Java 16.0.2 on ITSAR-ND6375HH5 with PID 15120 (C:\Users\FrancoCeruti\eclipse-workspace\springtest\target\classes started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:43:54,427 DEBUG [main] i.f.t.SpringtestApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:43:54,428 INFO [main] i.f.t.SpringtestApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:47:05,893 INFO [restartedMain] i.f.t.SpringtestApplication [StartupInfoLogger.java:55] Starting SpringtestApplication using Java 16.0.2 on ITSAR-ND6375HH5 with PID 4432 (C:\Users\FrancoCeruti\eclipse-workspace\springtest\target\classes started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:47:05,894 DEBUG [restartedMain] i.f.t.SpringtestApplication [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:47:05,896 INFO [restartedMain] i.f.t.SpringtestApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:47:09,103 INFO [restartedMain] i.f.t.SpringtestApplication [StartupInfoLogger.java:61] Started SpringtestApplication in 3.748 seconds (JVM running for 5.569)
+2022-05-20 12:47:25,128 DEBUG [http-nio-8080-exec-1] i.f.t.a.ControllerLogginPointCut [ControllerLogginPointCut.java:18] Chiamato il metodo: Testo, argomenti []
+2022-05-20 12:47:42,861 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 17904 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:47:42,863 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:47:42,865 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:47:46,348 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 3.961 seconds (JVM running for 6.124)
+2022-05-20 12:49:17,448 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 17724 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:49:17,449 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:49:17,450 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:49:20,574 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 3.605 seconds (JVM running for 5.769)
+2022-05-20 12:49:42,761 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 8668 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:49:42,764 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:49:42,766 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:49:46,026 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 3.861 seconds (JVM running for 5.796)
+2022-05-20 12:50:34,112 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 15980 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:50:34,114 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:50:34,116 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:50:37,309 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 3.756 seconds (JVM running for 6.082)
+2022-05-20 12:52:05,050 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 10048 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:52:05,051 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:52:05,052 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:52:09,141 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 4.617 seconds (JVM running for 6.724)
+2022-05-20 12:52:10,018 DEBUG [http-nio-8080-exec-5] i.f.t.a.ControllerLogginPointCut [ControllerLogginPointCut.java:18] Chiamato il metodo: Testo, argomenti []
+2022-05-20 12:52:31,139 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 6984 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:52:31,140 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:52:31,141 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:52:35,004 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 4.371 seconds (JVM running for 6.255)
+2022-05-20 12:52:35,871 DEBUG [http-nio-8080-exec-7] i.f.t.a.ControllerLogginPointCut [ControllerLogginPointCut.java:18] Chiamato il metodo: Testo, argomenti []
+2022-05-20 12:53:12,549 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 18560 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:53:12,550 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:53:12,551 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:53:15,730 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 3.667 seconds (JVM running for 5.458)
+2022-05-20 12:53:22,504 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:55] Starting HomeControllerTest using Java 16.0.2 on ITSAR-ND6375HH5 with PID 6048 (started by FrancoCeruti in C:\Users\FrancoCeruti\eclipse-workspace\springtest)
+2022-05-20 12:53:22,505 DEBUG [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:56] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-20 12:53:22,507 INFO [main] i.f.t.c.HomeControllerTest [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-05-20 12:53:26,405 INFO [main] i.f.t.c.HomeControllerTest [StartupInfoLogger.java:61] Started HomeControllerTest in 4.402 seconds (JVM running for 6.236)
+2022-05-20 12:53:27,251 DEBUG [http-nio-8080-exec-9] i.f.t.a.ControllerLogginPointCut [ControllerLogginPointCut.java:18] Chiamato il metodo: Testo, argomenti []
