@@ -13,6 +13,7 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 
 
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
+
 public class HomeControllerTest {
 
 
@@ -20,8 +21,8 @@ public class HomeControllerTest {
 	private TestRestTemplate restTemplate;
 	
 	@Test
-	public void greetingShouldReturnDefaultMessage() throws Exception {
-		assertThat(this.restTemplate.getForObject("http://localhost:" + 8080 + "/",
+	public void getTesto() throws Exception {
+		assertThat(this.restTemplate.getForObject("http://localhost:" + 8090 + "/",
 				String.class)).contains("Hello, World!");
 	}
 }
